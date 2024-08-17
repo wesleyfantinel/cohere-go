@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/henomis/cohere-go/model"
+	"github.com/wesleyfantinel/cohere-go/model"
 )
 
 type Summarize struct {

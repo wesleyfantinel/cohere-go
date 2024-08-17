@@ -6,9 +6,9 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/henomis/cohere-go/request"
-	"github.com/henomis/cohere-go/response"
-	"github.com/henomis/restclientgo"
+	"github.com/wesleyfantinel/cohere-go/request"
+	"github.com/wesleyfantinel/cohere-go/response"
+	"github.com/wesleyfantinel/restclientgo"
 )
 
 const (

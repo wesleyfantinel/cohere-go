@@ -1,7 +1,7 @@
 # Unofficial Cohere Go SDK
 
 
-[![GoDoc](https://godoc.org/github.com/henomis/cohere-go?status.svg)](https://godoc.org/github.com/henomis/cohere-go) [![Go Report Card](https://goreportcard.com/badge/github.com/henomis/cohere-go)](https://goreportcard.com/report/github.com/henomis/cohere-go) [![GitHub release](https://img.shields.io/github/release/henomis/cohere-go.svg)](https://github.com/henomis/cohere-go/releases)
+[![GoDoc](https://godoc.org/github.com/wesleyfantinel/cohere-go?status.svg)](https://godoc.org/github.com/wesleyfantinel/cohere-go) [![Go Report Card](https://goreportcard.com/badge/github.com/wesleyfantinel/cohere-go)](https://goreportcard.com/report/github.com/wesleyfantinel/cohere-go) [![GitHub release](https://img.shields.io/github/release/wesleyfantinel/cohere-go.svg)](https://github.com/wesleyfantinel/cohere-go/releases)
 
 This is [Cohere](https://cohere.com)'s **unofficial** Go client, designed to enable you to use Cohere's services easily from your own applications.
 
@@ -33,7 +33,7 @@ This is [Cohere](https://cohere.com)'s **unofficial** Go client, designed to ena
 
 You can load cohere-go into your project by using:
 ```
-go get github.com/henomis/cohere-go
+go get github.com/wesleyfantinel/cohere-go
 ```
 
 
@@ -56,9 +56,9 @@ import (
 	"fmt"
 	"os"
 
-	coherego "github.com/henomis/cohere-go"
-	"github.com/henomis/cohere-go/request"
-	"github.com/henomis/cohere-go/response"
+	coherego "github.com/wesleyfantinel/cohere-go"
+	"github.com/wesleyfantinel/cohere-go/request"
+	"github.com/wesleyfantinel/cohere-go/response"
 )
 
 func main() {
@@ -84,4 +84,4 @@ func main() {
 
 ## Who uses cohere-go?
 
-* [LinGoose](https://github.com/henomis/lingoose) Go framework for building awesome LLM apps
+* [LinGoose](https://github.com/wesleyfantinel/lingoose) Go framework for building awesome LLM apps

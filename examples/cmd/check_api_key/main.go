@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"os"
 
-	coherego "github.com/henomis/cohere-go"
-	"github.com/henomis/cohere-go/request"
-	"github.com/henomis/cohere-go/response"
+	coherego "github.com/wesleyfantinel/cohere-go"
+	"github.com/wesleyfantinel/cohere-go/request"
+	"github.com/wesleyfantinel/cohere-go/response"
 )
 
 func main() {

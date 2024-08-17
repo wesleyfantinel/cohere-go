@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/henomis/cohere-go/model"
-	"github.com/henomis/restclientgo"
+	"github.com/wesleyfantinel/cohere-go/model"
+	"github.com/wesleyfantinel/restclientgo"
 )
 
 type Chat struct {

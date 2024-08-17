@@ -4,8 +4,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/henomis/cohere-go/model"
-	"github.com/henomis/restclientgo"
+	"github.com/wesleyfantinel/cohere-go/model"
+	"github.com/wesleyfantinel/restclientgo"
 )
 
 const (

@@ -3,7 +3,7 @@ package request
 import (
 	"io"
 
-	"github.com/henomis/cohere-go/model"
+	"github.com/wesleyfantinel/cohere-go/model"
 )
 
 type Model struct {

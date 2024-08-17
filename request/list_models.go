@@ -3,7 +3,7 @@ package request
 import (
 	"io"
 
-	"github.com/henomis/restclientgo"
+	"github.com/wesleyfantinel/restclientgo"
 )
 
 type ListModels struct {
